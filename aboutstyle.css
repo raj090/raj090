@@ -1,0 +1,17 @@
+body{
+	background-image: url(images/greenwallpaper.jpg);
+	background-size: cover;
+}
+h1 {
+	color: blue;
+	text-align: center;
+	border: 2px solid black;
+	cursor: pointer;
+	line-height: 50px;
+}
+h3{
+	color:white;
+}
+p:hover{
+	color: #04f4f8;
+}

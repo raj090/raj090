@@ -1,0 +1,19 @@
+body{
+    background-image: url(images/techpic.png);
+    background-size: cover;
+
+    }
+
+	h1 {
+	color: blue;
+	text-align: center;
+	border: 2px solid black;
+	cursor: pointer;
+	line-height: 50px;
+}
+p:hover{
+	color: #04f4f8;
+}
+a{
+	cursor: pointer;
+}
